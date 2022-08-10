@@ -12,7 +12,7 @@
 <!-- You can include any other section that is pertinent to your problem -->
 
 ## General Information
-- It is required to understand the driving factors behind loan default, i.e. the variables which are strong indicators of default, so that a suitable decision can be made when a new applicant (member) applies for loan to manage the risk.
+- It is required to understand the driving factors behind loan default, i.e. the variables which are strong indicators of default, so that a suitable decision can be made when a new application arrives at LC for loan.
 - Dataset for loans issued between 2007 and 2011 in CSV format (loan.csv) along with a Data Dictionary in Excel file (data_dict.xlsx) is available in the repository. Meaning of variables as understood from LC's website et. al. has been incorporated in the data dictionary.
 - The dataset after cleaning has also been stored in the repository in CSV format (loan_clean.csv) in case anyone wants to skip the data cleaning steps. **don't forget to import the libraries, which are at the beggining of the notebook**
 - The analysis includes univariate, segmented univariate and bivariate analysis on the data
