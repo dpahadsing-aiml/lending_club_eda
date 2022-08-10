@@ -50,7 +50,7 @@
 <!-- As the libraries versions keep on changing, it is recommended to mention the version of library used in this project -->
 
 ## Acknowledgements
-- To understand the meaning of the Variables and gain insight about the business, LC’s website (www.lendingclub.com) and other public websites (www.balance.com, www.investopedia.com etc.) were referred.
+- To understand the meaning of the Variables and gain insight about the business, LC’s website (www.lendingclub.com) and other public websites (www.bankrate.com, www.investopedia.com etc.) were referred.
 
 
 ## Contact
